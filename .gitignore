@@ -1,2 +1,4 @@
 *.pdf
 Project1.ipynb
+venv/
+.ipynb_checkpoints/
